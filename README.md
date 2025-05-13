@@ -21,3 +21,4 @@ Desde la terminal, navega al directorio del proyecto y ejecuta:
 
 ```bash
 dotnet run -- <nombre_de_usuario># GitHub-User-Activity
+# GitHub_User_Activity
