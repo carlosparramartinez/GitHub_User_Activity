@@ -1,7 +1,7 @@
 # GithubActivityCLI
 
 Esta es una aplicación de línea de comandos (CLI) escrita en C# que te permite consultar la actividad reciente de cualquier usuario público de GitHub. Utiliza la API pública de GitHub para obtener eventos como commits, estrellas o creación de issues.
-
+https://roadmap.sh/projects/github-user-activity
 ##  ¿Qué hace?
 
 Muestra eventos recientes del usuario en la terminal, por ejemplo:
