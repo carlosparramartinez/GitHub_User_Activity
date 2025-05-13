@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\bin\Debug\net9.0\GithubActivityCLI.exe
+C:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\bin\Debug\net9.0\GithubActivityCLI.deps.json
+C:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\bin\Debug\net9.0\GithubActivityCLI.runtimeconfig.json
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\bin\Debug\net9.0\GithubActivityCLI.dll
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\bin\Debug\net9.0\GithubActivityCLI.pdb
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.AssemblyInfo.cs
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.dll
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\refint\GithubActivityCLI.dll
+c:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.pdb
+C:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\GithubActivityCLI.genruntimeconfig.cache
+C:\Users\User\Desktop\cosas\cursos\road map\GithubActivityCLI\obj\Debug\net9.0\ref\GithubActivityCLI.dll
